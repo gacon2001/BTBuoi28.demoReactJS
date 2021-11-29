@@ -17,9 +17,6 @@ code {
   height: 600px;
 }
 
-.listsmartphone {
-  background-color: #343a40;
-}
-#promotion{
+.listsmartphone, #promotion{
   background-color: #343a40;
 }
